@@ -1,6 +1,6 @@
 {
   "nodes":[
-	{"name":"AMEDISYS HOME HEALTH","group":1},
+	{"name":"AMEDISYS HOME HEALTH","group":0},
 	{"name":"AMEDISYS OF LAKE WALES","group":1},
 	{"name":"AMEDISYS OF NORTH TAMPA","group":1},
 	{"name":"BRADENTON","group":2},
