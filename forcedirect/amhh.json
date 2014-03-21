@@ -1,0 +1,43 @@
+{
+  "nodes":[
+	{"name":"AMEDISYS HOME HEALTH","group":1},
+	{"name":"AMEDISYS OF LAKE WALES","group":1},
+	{"name":"AMEDISYS OF NORTH TAMPA","group":1},
+	{"name":"BRADENTON","group":2},
+	{"name":"CLEARWATER","group":2},
+	{"name":"CRYSTAL RIVER","group":2},
+	{"name":"FORT LAUDERDALE","group":2},
+	{"name":"FORT MYERS","group":2},
+	{"name":"GAINESVILLE","group":2},
+	{"name":"MARIANNA","group":2},
+	{"name":"ORLANDO","group":2},
+	{"name":"PENSACOLA","group":2},
+	{"name":"PORT CHARLOTTE","group":2},
+	{"name":"PORT SAINT LUCIE","group":2},
+	{"name":"SAINT AUGUSTINE","group":2},
+	{"name":"SEBRING","group":2},
+	{"name":"TALLAHASSEE","group":2},
+	{"name":"TAMPA","group":2},
+	{"name":"THE VILLAGES","group":2},
+	{"name":"WINTER HAVEN","group":2}
+  ],
+  "links":[
+	{"source":1,"target":4,"value":1},
+	{"source":1,"target":5,"value":1},
+	{"source":1,"target":6,"value":1},
+	{"source":1,"target":7,"value":1},
+	{"source":1,"target":8,"value":1},
+	{"source":1,"target":9,"value":1},
+	{"source":1,"target":10,"value":1},
+	{"source":1,"target":11,"value":1},
+	{"source":1,"target":12,"value":1},
+	{"source":1,"target":13,"value":1},
+	{"source":1,"target":14,"value":1},
+	{"source":1,"target":15,"value":1},
+	{"source":1,"target":17,"value":1},
+	{"source":1,"target":19,"value":1},
+	{"source":1,"target":20,"value":1},
+	{"source":2,"target":16,"value":1},
+	{"source":3,"target":18,"value":1}
+  ]
+}
